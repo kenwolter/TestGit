@@ -3,3 +3,4 @@ more new information
 Even more changes
 This should be a conflict
 Test
+blah blah blah
