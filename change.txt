@@ -1,2 +1,7 @@
 new File
+<<<<<<< HEAD
 more new information
+=======
+more new information
+Even more changes
+>>>>>>> dev
