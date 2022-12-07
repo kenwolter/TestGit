@@ -5,3 +5,4 @@ This should be a conflict
 Test
 blah blah blah
 Rabbit
+making a change
